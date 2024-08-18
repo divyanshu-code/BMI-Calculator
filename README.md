@@ -6,8 +6,8 @@ The BMI is calculated using the following formula:
 
  ---
 # BMI Categories:
-Underweight: BMI < 18.5
-Normal weight: BMI 18.5–24.9
+Underweight: BMI < 18.5 ,
+Normal weight: BMI 18.5–24.9 ,
 Overweight: BMI 25–29.9
 
 --- 
