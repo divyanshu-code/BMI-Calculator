@@ -17,9 +17,6 @@ Enter Height: Input your height in meters (m).
 Calculate: The BMI calculator will compute your BMI using the formula above.
 
 --- 
-Here is link : https://divyanshu-code.github.io/BMI-Calculator/
-
---- 
 # Limitations:
 Doesn't Account for Muscle Mass: BMI doesn't distinguish between weight from fat and muscle, so a muscular person may be classified as overweight or obese.
 Not a Diagnostic Tool: BMI alone doesn't diagnose health issues but can be a useful screening tool.
