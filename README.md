@@ -17,7 +17,6 @@ Enter Height: Input your height in meters (m).
 Calculate: The BMI calculator will compute your BMI using the formula above.
 
 --- 
-# link 
 Here is link : https://divyanshu-code.github.io/BMI-Calculator/
 
 --- 
